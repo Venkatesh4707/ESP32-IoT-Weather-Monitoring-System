@@ -69,7 +69,14 @@ This project is an IoT-based weather monitoring system developed using ESP32 and
 
 ## 📷 Project Images
 
-(Add project images here)
+### Hardware Setup
+![Hardware Setup](Images/hardware_setup.jpg)
+
+### Blynk Mobile Dashboard
+![Mobile Dashboard](Images/blynk_mobile_dashboard.jpg)
+
+### Blynk Web Dashboard
+![Web Dashboard](Images/blynk_web_dashboard.jpg)
 
 ---
 
