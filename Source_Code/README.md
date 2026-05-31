@@ -1,8 +1,9 @@
 ESP32 Weather Monitoring Source Code
 /***************** BLYNK DETAILS *****************/
-#define BLYNK_TEMPLATE_ID   "TMPL3y38zzLZr"
-#define BLYNK_TEMPLATE_NAME "Weather Station"
-#define BLYNK_AUTH_TOKEN    "mZSudLubclgesCxvwGI2ymPBHbZ1P3Ck"
+// Blynk Configuration
+#define BLYNK_TEMPLATE_ID "YOUR_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "YOUR_TEMPLATE_NAME"
+#define BLYNK_AUTH_TOKEN "YOUR_AUTH_TOKEN"
 
 #define BLYNK_PRINT Serial
 
@@ -14,8 +15,8 @@ ESP32 Weather Monitoring Source Code
 #include <Adafruit_BMP280.h>
 
 /***************** WIFI *****************/
-char ssid[] = "Texoham_5G";
-char pass[] = "T3x0h@m@2020";
+char ssid[] = "YOUR_WIFI_NAME";
+char pass[] = "YOUR_WIFI_PASSWORD";
 
 /***************** DHT11 *****************/
 #define DHTPIN 4
