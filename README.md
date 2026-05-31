@@ -82,8 +82,16 @@ This project is an IoT-based weather monitoring system developed using ESP32 and
 
 ## 👨‍💻 Author
 
-**P. Venkatesh Sagar**  
-Embedded Systems & Robotics Engineer
+**P. Venkatesh Sagar**
+
+B.Tech Electronics & Communication Engineering  
+Embedded Systems | IoT | Robotics Engineer
+
+📍 Hyderabad, India
+
+🔗 LinkedIn: www.linkedin.com/in/p-venkatesh-sagar-528715256
+
+📧 Email: venkateshsagar4707@gmail.com
 
 LinkedIn: www.linkedin.com/in/p-venkatesh-sagar-528715256
 
