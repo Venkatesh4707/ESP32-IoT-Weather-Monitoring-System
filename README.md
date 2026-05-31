@@ -3,9 +3,7 @@
 ## 📌 Overview
 
 The ESP32 IoT Weather Monitoring System is a smart environmental monitoring project that utilizes an ESP32 microcontroller and a DHT11 sensor to collect real-time temperature and humidity data. The collected data is transmitted over Wi-Fi and displayed on Blynk mobile and web dashboards, enabling users to monitor environmental conditions remotely from anywhere.
-
 ---
-
 ## 🚀 Features
 
 * Real-time Temperature Monitoring
